@@ -1,5 +1,5 @@
 # FoodSnap AI - Hackathon Project
-n
+
 🎉 **Welcome to the FoodSnap AI Hackathon!** 🎉
 
 Get ready to combine your coding skills with the fascinating world of artificial intelligence and nutrition! We're excited to see what innovative solutions you come up with.
